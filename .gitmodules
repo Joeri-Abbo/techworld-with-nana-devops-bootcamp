@@ -7,3 +7,6 @@
 [submodule "java-maven-app"]
 	path = java-maven-app
 	url = git@github.com:Joeri-Abbo/techworld-with-nana-java-maven-app.git
+[submodule "java-react-example"]
+	path = java-react-example
+	url = git@github.com:Joeri-Abbo/techworld-with-nana-java-react-example.git
