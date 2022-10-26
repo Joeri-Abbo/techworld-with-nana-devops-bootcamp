@@ -4,3 +4,6 @@
 [submodule "developing-with-docker"]
 	path = developing-with-docker
 	url = git@github.com:Joeri-Abbo/-techworld-with-nana-developing-with-docker.git
+[submodule "java-maven-app"]
+	path = java-maven-app
+	url = git@github.com:Joeri-Abbo/techworld-with-nana-java-maven-app.git
