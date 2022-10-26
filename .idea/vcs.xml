@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/developing-with-docker" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/java-app" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/java-maven-app" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/java-react-example" vcs="Git" />
