@@ -17,3 +17,6 @@ su - nexus
 /opt/nexus-3.42.0-01/bin/nexus start
 ps aux | grep nexus
 netstat -lnpt
+snap install docker
+docker volume create --name nexus-data
+docker run -d -p 8088:8081 --name nexus -v nexus-data:/nexus-data sonatype/nexus3
