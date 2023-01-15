@@ -10,6 +10,7 @@
 ## Demo projects
 
 - [Demo project for Module 5 - Cloud & IaaS](https://github.com/Joeri-Abbo/techworld-with-nana-java-maven-app)
+- [Demo project for Module 6 - Artifact Repository Manager](artifact-repository-manager%2FREADME.md)
 
 ## Notes
 
