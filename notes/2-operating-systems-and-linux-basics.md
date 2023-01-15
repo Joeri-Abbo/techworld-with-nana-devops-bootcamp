@@ -1,4 +1,4 @@
-## 1 - Operating Systems & Linux Basics
+## 2 - Operating Systems & Linux Basics
 
 ### Virtualization & Virtual Machines
 
