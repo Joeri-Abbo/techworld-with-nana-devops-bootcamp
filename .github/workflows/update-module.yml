@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GH_PA_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           submodules: recursive
       - name: Update module
         run: |
