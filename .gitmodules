@@ -13,3 +13,6 @@
 [submodule "react-nodejs-example"]
 	path = react-nodejs-example
 	url = git@github.com:Joeri-Abbo/techworld-with-nana-react-nodejs-example.git
+[submodule "techworld-with-nana-jenkins-shared-libary"]
+	path = techworld-with-nana-jenkins-shared-libary
+	url = git@github.com:Joeri-Abbo/techworld-with-nana-jenkins-shared-libary.git
