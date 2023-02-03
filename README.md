@@ -23,7 +23,7 @@
 - [6 - Artifact Repository Manager with Nexus](notes%2F6-artifact-repository-manager-with-nexus.md)
 - [7 - Containers with Docker](notes%2F7-containers-with-docker.md)
 - [8 - Build Automation & CI/CD with Jenkins](notes%2F8-build-automation-and-cicd-with-jenkins.md)
-- [9 - AWS Services TODO](notes%2F9-aws-services.md)
+- [9 - AWS Services](notes%2F9-aws-services.md)
 - [10 - Container Orchestration with Kubernetes TODO](notes%2F10-container-orchestration-with-kubernetes.md)
 - [11 - Kubernetes on AWS - EKS TODO](notes%2F11-kubernetes-on-aws-eks.md)
 - [12 - Infrastructure as Code with Terraform TODO](notes%2F12-infrastructure-as-code-with-terraform.md)
