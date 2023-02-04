@@ -25,3 +25,6 @@
 [submodule "techworld-with-nana-container-orchestration-with-kubernetes"]
 	path = techworld-with-nana-container-orchestration-with-kubernetes
 	url = git@github.com:Joeri-Abbo/techworld-with-nana-container-orchestration-with-kubernetes.git
+[submodule "techworld-with-nana-terraform"]
+	path = techworld-with-nana-terraform
+	url = git@github.com:Joeri-Abbo/techworld-with-nana-terraform.git
