@@ -16,3 +16,6 @@
 [submodule "techworld-with-nana-jenkins-shared-libary"]
 	path = techworld-with-nana-jenkins-shared-libary
 	url = git@github.com:Joeri-Abbo/techworld-with-nana-jenkins-shared-libary.git
+[submodule "techworld-with-nana-aws-services"]
+	path = techworld-with-nana-aws-services
+	url = git@github.com:Joeri-Abbo/techworld-with-nana-aws-services.git

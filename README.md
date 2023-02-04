@@ -12,6 +12,7 @@
 - [Demo project for Module 5 - Cloud & IaaS](https://github.com/Joeri-Abbo/techworld-with-nana-java-maven-app)
 - [Demo project for Module 6 - Artifact Repository Manager](artifact-repository-manager%2FREADME.md)
 - [Demo project for Module 7 - Docker](https://github.com/Joeri-Abbo/techworld-with-nana-developing-with-docker)
+- [Demo project for Module 9 -  AWS services](https://github.com/Joeri-Abbo/techworld-with-nana-aws-services)
 
 ## Notes
 
