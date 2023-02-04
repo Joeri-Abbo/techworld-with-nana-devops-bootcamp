@@ -19,3 +19,6 @@
 [submodule "techworld-with-nana-aws-services"]
 	path = techworld-with-nana-aws-services
 	url = git@github.com:Joeri-Abbo/techworld-with-nana-aws-services.git
+[submodule "techworld-with-nana-my-python-project"]
+	path = techworld-with-nana-my-python-project
+	url = git@github.com:Joeri-Abbo/techworld-with-nana-my-python-project.git
