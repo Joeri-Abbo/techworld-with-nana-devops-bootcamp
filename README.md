@@ -28,8 +28,8 @@
 - [10 - Container Orchestration with Kubernetes TODO](notes%2F10-container-orchestration-with-kubernetes.md)
 - [11 - Kubernetes on AWS - EKS TODO](notes%2F11-kubernetes-on-aws-eks.md)
 - [12 - Infrastructure as Code with Terraform](notes%2F12-infrastructure-as-code-with-terraform.md)
-- [13 - Programming Basics with Python TODO](notes%2F13-programming-basics-with-python.md)
-- [14 - Automation with Python](notes%2F14-automation-with-python.md)
+- [13 - Programming Basics with Python](notes%2F13-programming-basics-with-python.md)
+- [14 - Automation with Python WIP](notes%2F14-automation-with-python.md)
 - [15 - Configuration Management with Ansible TODO](notes%2F15-configuration-management-with-ansible.md)
 - [16 - Monitoring with Prometheus TODO](notes%2F16-monitoring-with-prometheus.md)
 
