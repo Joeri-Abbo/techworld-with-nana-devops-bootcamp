@@ -28,3 +28,6 @@
 [submodule "techworld-with-nana-terraform"]
 	path = techworld-with-nana-terraform
 	url = git@github.com:Joeri-Abbo/techworld-with-nana-terraform.git
+[submodule "Joeri-Abbo-techworld-with-nana-ansible"]
+	path = Joeri-Abbo-techworld-with-nana-ansible
+	url = git@github.com:Joeri-Abbo/Joeri-Abbo-techworld-with-nana-ansible.git
