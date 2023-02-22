@@ -34,3 +34,6 @@
 [submodule "microservices-demo"]
 	path = microservices-demo
 	url = git@github.com:nanuchi/microservices-demo.git
+[submodule "techworld-with-nana-online-shop-microservices"]
+	path = techworld-with-nana-online-shop-microservices
+	url = git@github.com:Joeri-Abbo/techworld-with-nana-online-shop-microservices.git
