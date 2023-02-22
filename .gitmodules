@@ -31,3 +31,6 @@
 [submodule "Joeri-Abbo-techworld-with-nana-ansible"]
 	path = Joeri-Abbo-techworld-with-nana-ansible
 	url = git@github.com:Joeri-Abbo/Joeri-Abbo-techworld-with-nana-ansible.git
+[submodule "microservices-demo"]
+	path = microservices-demo
+	url = git@github.com:nanuchi/microservices-demo.git
