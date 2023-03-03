@@ -26,7 +26,7 @@ All demo projects are available in the [demo-projects](demo-projects) folder.
 - [11 - Kubernetes on AWS - EKS](notes%2F11-kubernetes-on-aws-eks.md)
 - [12 - Infrastructure as Code with Terraform](notes%2F12-infrastructure-as-code-with-terraform.md)
 - [13 - Programming Basics with Python](notes%2F13-programming-basics-with-python.md)
-    - [14 - Automation with Python](notes%2F14-automation-with-python.md)
+- [14 - Automation with Python](notes%2F14-automation-with-python.md)
 - [15 - Configuration Management with Ansible](notes%2F15-configuration-management-with-ansible.md)
 - [16 - Monitoring with Prometheus](notes%2F16-monitoring-with-prometheus.md)
 
