@@ -1,42 +1,39 @@
 [submodule "demo-projects/java-app"]
-	path = java-app
+	path = demo-projects/java-app
 	url = git@github.com:Joeri-Abbo/techworld-with-nana-java-app.git
 [submodule "demo-projects/developing-with-docker"]
-	path = developing-with-docker
+	path = demo-projects/developing-with-docker
 	url = git@github.com:Joeri-Abbo/techworld-with-nana-developing-with-docker.git
 [submodule "demo-projects/java-maven-app"]
-	path = java-maven-app
+	path = demo-projects/java-maven-app
 	url = git@github.com:Joeri-Abbo/techworld-with-nana-java-maven-app.git
 [submodule "demo-projects/java-react-example"]
-	path = java-react-example
+	path = demo-projects/java-react-example
 	url = git@github.com:Joeri-Abbo/techworld-with-nana-java-react-example.git
-[submodule "demo-projects/react-nodejs-example"]
-	path = react-nodejs-example
-	url = git@github.com:Joeri-Abbo/techworld-with-nana-react-nodejs-example.git
-[submodule "demo-projects/jenkins-shared-libary"]
-	path = techworld-with-nana-jenkins-shared-libary
-	url = git@github.com:Joeri-Abbo/techworld-with-nana-jenkins-shared-libary.git
-[submodule "demo-projects/aws-services"]
-	path = techworld-with-nana-aws-services
-	url = git@github.com:Joeri-Abbo/techworld-with-nana-aws-services.git
-[submodule "demo-projects/my-python-project"]
-	path = techworld-with-nana-my-python-project
-	url = git@github.com:Joeri-Abbo/techworld-with-nana-my-python-project.git
-[submodule "demo-projects/container-orchestration-with-kubernetes"]
-	path = techworld-with-nana-container-orchestration-with-kubernetes
-	url = git@github.com:Joeri-Abbo/techworld-with-nana-container-orchestration-with-kubernetes.git
-[submodule "demo-projects/terraform"]
-	path = techworld-with-nana-terraform
-	url = git@github.com:Joeri-Abbo/techworld-with-nana-terraform.git
-[submodule "demo-projects/ansible"]
-	path = Joeri-Abbo-techworld-with-nana-ansible
-	url = git@github.com:Joeri-Abbo/Joeri-Abbo-techworld-with-nana-ansible.git
-[submodule "demo-projects/microservices-demo"]
-	path = microservices-demo
-	url = git@github.com:nanuchi/microservices-demo.git
-[submodule "demo-projects/techworld-with-nana-online-shop-microservices"]
-	path = techworld-with-nana-online-shop-microservices
-	url = git@github.com:Joeri-Abbo/techworld-with-nana-online-shop-microservices.git
-[submodule "demo-projects/techworld-with-nana-prometheus"]
-	path = techworld-with-nana-prometheus
+[submodule "demo-projects/prometheus"]
+	path = demo-projects/prometheus
 	url = git@github.com:Joeri-Abbo/techworld-with-nana-prometheus.git
+[submodule "demo-projects/online-shop-microservices"]
+	path = demo-projects/online-shop-microservices
+	url = git@github.com:Joeri-Abbo/techworld-with-nana-online-shop-microservices.git
+[submodule "demo-projects/microservices-demo"]
+	path = demo-projects/microservices-demo
+	url = git@github.com:nanuchi/microservices-demo.git
+[submodule "demo-projects/ansible"]
+	path = demo-projects/ansible
+	url = git@github.com:Joeri-Abbo/Joeri-Abbo-techworld-with-nana-ansible.git
+[submodule "demo-projects/terraform"]
+	path = demo-projects/terraform
+	url = git@github.com:Joeri-Abbo/techworld-with-nana-terraform.git
+[submodule "demo-projects/container-orchestration-with-kubernetes"]
+	path = demo-projects/container-orchestration-with-kubernetes
+	url = git@github.com:Joeri-Abbo/techworld-with-nana-container-orchestration-with-kubernetes.git
+[submodule "demo-projects/my-python-project"]
+	path = demo-projects/my-python-project
+	url = git@github.com:Joeri-Abbo/techworld-with-nana-my-python-project.git
+[submodule "demo-projects/aws-services"]
+	path = demo-projects/aws-services
+	url = git@github.com:Joeri-Abbo/techworld-with-nana-aws-services.git
+[submodule "demo-projects/jenkins-shared-libary"]
+	path = demo-projects/jenkins-shared-libary
+	url = git@github.com:Joeri-Abbo/techworld-with-nana-jenkins-shared-libary.git
